@@ -5,7 +5,7 @@ This is our paper presentation for DS 5899 - Transformers. The topic of discussi
 
 ## Overview
 
-
+Computer Vision is a domain that focuses on the usage of deep learning algorithms to understand images. It works by transforming an image into a numerical representation (often a matrix). This matrix is ran through different mathematical functions geared towards providing a label on the image.
 
 ## Paper review
 
