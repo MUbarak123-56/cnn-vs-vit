@@ -29,6 +29,15 @@ This is our paper presentation for DS 5899 - Transformers. The topic of discussi
 
 ## CNN vs ViT
 
+An experiment was conducted by us to see the differences in performance between ViT and Resnet-50 when it comes to making inferences on images. 
+
+> For our experiment:
+> - The food data on Huggingface was loaded into our Jupyter Notebook file
+> - We proceeded to transform the images in the data to be suitable for model training 
+> - Then, we trained either ViT and Resnet on the training sets of the images
+> - Finally, we evaluated the performance of both trained models on the test data
+
+
 ![image](https://user-images.githubusercontent.com/89406404/197955058-5f907bd6-75e5-4c9a-8695-66cd3da42a59.png)
 
 
