@@ -9,6 +9,9 @@ This is our paper presentation for DS 5899 - Transformers. The topic of discussi
 
 ## CNN vs ViT
 
+![image](https://user-images.githubusercontent.com/89406404/197955058-5f907bd6-75e5-4c9a-8695-66cd3da42a59.png)
+
+
 ## Summary
 
 > ViT has created a new pathway for learning from image data via Attention
