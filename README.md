@@ -11,6 +11,15 @@ This is our paper presentation for DS 5899 - Transformers. The topic of discussi
 
 ## Summary
 
+> ViT has created a new pathway for learning from image data via Attention
+> 
+> ViT differs heavily from CNNs in terms of its ability to recognize object
+> 
+> - It views images uniformly across all layers
+> 
+> ViT needs to have been pre-trained on a lot of data before it can go on to clearly outperform CNNs
+
+
 ## References
 
 [Do Vision Transformers See Like Convolution Neural Networks?](https://arxiv.org/abs/2108.08810)
