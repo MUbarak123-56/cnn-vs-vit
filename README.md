@@ -5,6 +5,8 @@ This is our paper presentation for DS 5899 - Transformers. The topic of discussi
 
 ## Overview
 
+[Videos](https://www.youtube.com/watch?v=IffBFXTnjqk&t=50s)
+
 ## Paper review
 
 > Representation similarity between lower and higher layers
