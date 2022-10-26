@@ -7,6 +7,26 @@ This is our paper presentation for DS 5899 - Transformers. The topic of discussi
 
 ## Paper review
 
+> Representation similarity between lower and higher layers
+> - Compared with CNN, ViT has a more uniform internal representation structure (Higher similarity between lower/higher layers)
+
+> Global & Local spatial information at lower layers 
+> - CNN convolves local spatial information by convolution filter at lower layer
+> - ViT incorporates global spatial information at lower layer (but also local spatial information is important)
+
+> More spatial information is preserved in ViT than CNN
+
+> Effects of skip connections on performance & representation similarity
+> - Skip-connections impact more in ViT than in CNN (ResNets)
+
+> Effects of dataset scale on transfer learning
+> - ViT can learn high quality intermediate representations
+
+> Connections to new architectures such as the MLP-Mixer
+> - MLP-Mixer is similar to ViT rather than ResNet
+
+
+
 ## CNN vs ViT
 
 ![image](https://user-images.githubusercontent.com/89406404/197955058-5f907bd6-75e5-4c9a-8695-66cd3da42a59.png)
@@ -15,11 +35,11 @@ This is our paper presentation for DS 5899 - Transformers. The topic of discussi
 ## Summary
 
 > ViT has created a new pathway for learning from image data via Attention
-> 
+
 > ViT differs heavily from CNNs in terms of its ability to recognize object
-> 
+
 > - It views images uniformly across all layers
-> 
+
 > ViT needs to have been pre-trained on a lot of data before it can go on to clearly outperform CNNs
 
 
