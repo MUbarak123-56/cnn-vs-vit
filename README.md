@@ -26,7 +26,7 @@ This is our paper presentation for DS 5899 - Transformers. The topic of discussi
 
 [Vision Transformer for Image Classification](https://www.youtube.com/watch?v=HZ4j_U3FC94)
 
-[A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way.](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+[A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 
 [Attention augmented convolutional networks.](https://arxiv.org/abs/1904.09925)
 
